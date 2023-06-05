@@ -8,3 +8,4 @@ t=2023-06-05T14:57:11+0000 lvl=info msg="started tunnel" obj=tunnels name=comman
 t=2023-06-05T14:58:54+0000 lvl=info msg="join connections" obj=join id=446f6b1c091b l=127.0.0.1:8080 r=46.148.178.157:62184
 t=2023-06-05T14:58:55+0000 lvl=info msg="join connections" obj=join id=e025b2c4e65b l=127.0.0.1:8080 r=46.148.178.157:62184
 t=2023-06-05T15:00:31+0000 lvl=info msg="join connections" obj=join id=ae8b6c9515cf l=127.0.0.1:8080 r=140.82.115.33:30077
+t=2023-06-05T15:02:45+0000 lvl=info msg="join connections" obj=join id=9a7c078da3b9 l=127.0.0.1:8080 r=140.82.115.253:18727
